@@ -1,0 +1,9 @@
+[server]
+showEmailPrompt = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#1f6fb2"
